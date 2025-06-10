@@ -19,6 +19,6 @@ In VANET-based federated learning, identity authentication plays a critical role
 ├── Access.java          # Java-based access on blockchain
 ├── authZKP_8.py         # Python script for zero-knowledge proof-based authentication
 ├── comOver_2.py         # Communication overhead simulation
-├── test_9.py            # Test FL performance
+├── test_9.py            # Test authentication efficiency
 ├── trainSOCV_7.py       # Federated learning training
 └── README.md
